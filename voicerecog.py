@@ -1,8 +1,8 @@
 import speech_recognition as sr
 import webbrowser
 
-r= sr.Recognizer()
-r.energy_threshold=5000
+#r= sr.Recognizer()
+#r.energy_threshold=5000
 # r2= sr.Recognizer()
 # r3 = sr.Recognizer()
 
