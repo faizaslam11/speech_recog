@@ -10,9 +10,6 @@
 ## 🚀 Technologies have used 
 
 <img src="https://user-images.githubusercontent.com/18649504/66262823-725cd600-e7be-11e9-9cea-ea14305079db.png" width = "100">
-<img src ="https://user-images.githubusercontent.com/18649504/66262944-91f4fe00-e7c0-11e9-979d-2f370d1ebbbc.png" width = "100">
-
-
 
 ## 🔓 Linkedin
 (https://www.linkedin.com/in/faiz-aslam-49551b194/)
