@@ -1,7 +1,7 @@
 
 ## 💌  Send Email with any kind of attachment from a folder 
 
-![email](https://user-images.githubusercontent.com/18649504/83364148-5e7d6a00-a375-11ea-94d9-0a063b5f8f4f.gif)
+faizaslam10@gmail.com
 
 ## 📚  Description
 
