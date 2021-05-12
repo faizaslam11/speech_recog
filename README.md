@@ -1,7 +1,7 @@
 
 ## 💌  Send Email with any kind of attachment from a folder 
 
-faizaslam11@gmail.com
+faizaslam10@gmail.com
 
 ## 📚  Description
 
